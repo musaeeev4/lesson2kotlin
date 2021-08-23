@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">lesson2kotlin</string>
+    <string name="imageView">Введите Url Картину </string>
+</resources>
